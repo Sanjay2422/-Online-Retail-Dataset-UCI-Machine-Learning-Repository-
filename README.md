@@ -1,12 +1,16 @@
 # -Online-Retail-Dataset-UCI-Machine-Learning-Repository-
 This project focuses on analyzing the Online Retail Dataset (UCI Machine Learning Repository) and building predictive models to extract valuable business insights.
 
+
 # Online Retail Data Analysis: RFM, Forecasting & Recommendations
 
 ## 📌 Overview
+
 This project leverages the **Online Retail Dataset** from the UCI Machine Learning Repository to extract actionable business intelligence. The notebook (`UCI Machine Learning Repository-RFM_Sales_Recommendation_Analysis.ipynb`) walks through an end-to-end data science workflow, focusing on customer segmentation, time-series sales forecasting, and building a product recommendation engine.
 
+
 ## 🚀 Key Features & Sections
+
 1. **Data Cleaning & Preprocessing:** 
    - Handling missing values, removing duplicates, and formatting data for analysis.
 2. **Customer Segmentation (RFM Analysis):** 
@@ -21,11 +25,13 @@ This project leverages the **Online Retail Dataset** from the UCI Machine Learni
 5. **Business Insights:** 
    - Actionable marketing strategies tailored to distinct customer segments (e.g., rewarding loyalists vs. re-engaging inactive users).
 
+
 ## 🛠️ Tech Stack
 * **Languages:** Python
 * **Data Manipulation:** `pandas`, `numpy`, `dask`
 * **Machine Learning & Stats:** `scikit-learn`, `scipy`, `statsmodels`, `mlxtend`
 * **Visualization:** `matplotlib`, `seaborn`
+
 
 ## 📊 How to Run
 1. Ensure you have the [Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/online+retail) downloaded as `Online Retail.xlsx`.
